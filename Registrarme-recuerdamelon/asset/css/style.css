@@ -58,6 +58,7 @@ img:nth-child(3) {
 }
 
 .background-video {
+    background: url("bg-foto.png");
     position: fixed;
     min-width: 100%;
     min-height: 100%;
@@ -71,9 +72,13 @@ video {
 }
 
 .login {
+    position: absolute;
+    
     margin-right: 5%;
     text-align: center;
     height: 90%;
+    left: 70vw;
+    
     border-radius: 25px;
     padding-top: 1.5%;
 }
@@ -158,6 +163,7 @@ a,
 
 
 /*----- Button para el switch Log/Registration ------*/
+/*
 .bt-switchLog
 {
     background-color: var(--verdeGris);
@@ -180,7 +186,7 @@ a,
     color: var(--verdeGris);
     background-color: var(--blanco);
 }
-
+*/
 
 /* Animacion */
 .inf {
