@@ -272,7 +272,7 @@ button:hover {
     opacity: 1;
 
     width: 40% ;
-    height: auto ;
+    height:  65%;
     padding: 3% 2%;
     background: var(--verdeGris);
     border-radius: 5%;    
@@ -516,7 +516,7 @@ button:hover {
     display: none;
     position: absolute;
     left: 95%;
-    top: 65%;
+    top: 70%;
     background-color: var(--blanco);
     min-width: 15%;
     width: 10%;
